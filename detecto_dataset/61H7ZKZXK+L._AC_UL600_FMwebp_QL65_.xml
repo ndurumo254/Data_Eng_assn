@@ -1,0 +1,26 @@
+<annotation>
+	<folder>detecto</folder>
+	<filename>61H7ZKZXK+L._AC_UL600_FMwebp_QL65_.webp</filename>
+	<path>C:\Users\MMb\Desktop\detecto\61H7ZKZXK+L._AC_UL600_FMwebp_QL65_.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>244</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>veg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>396</ymin>
+			<xmax>63</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

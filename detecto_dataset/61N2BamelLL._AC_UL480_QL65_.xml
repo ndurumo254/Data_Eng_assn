@@ -1,0 +1,26 @@
+<annotation>
+	<folder>detecto</folder>
+	<filename>61N2BamelLL._AC_UL480_QL65_.jpg</filename>
+	<path>C:\Users\MMb\Desktop\detecto\61N2BamelLL._AC_UL480_QL65_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>veg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>409</ymin>
+			<xmax>81</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

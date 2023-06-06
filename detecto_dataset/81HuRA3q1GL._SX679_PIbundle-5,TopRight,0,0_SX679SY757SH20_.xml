@@ -1,0 +1,26 @@
+<annotation>
+	<folder>detecto</folder>
+	<filename>81HuRA3q1GL._SX679_PIbundle-5,TopRight,0,0_SX679SY757SH20_.jpg</filename>
+	<path>C:\Users\MMb\Desktop\detecto\81HuRA3q1GL._SX679_PIbundle-5,TopRight,0,0_SX679SY757SH20_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>757</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>veg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>242</ymin>
+			<xmax>589</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

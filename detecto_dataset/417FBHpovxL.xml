@@ -1,0 +1,26 @@
+<annotation>
+	<folder>detecto</folder>
+	<filename>417FBHpovxL.jpg</filename>
+	<path>C:\Users\MMb\Desktop\detecto\417FBHpovxL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non_veg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>220</ymin>
+			<xmax>182</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
