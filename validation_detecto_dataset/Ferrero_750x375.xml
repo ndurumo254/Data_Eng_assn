@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation_detecto_dataset</folder>
+	<filename>Ferrero_750x375.png</filename>
+	<path>C:\Users\MMb\Desktop\netscribes\assg_12\data_eng_assn\validation_detecto_dataset\Ferrero_750x375.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>veg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>280</ymin>
+			<xmax>73</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

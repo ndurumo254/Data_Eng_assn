@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation_detecto_dataset</folder>
+	<filename>417cpydKSpL.jpg</filename>
+	<path>C:\Users\MMb\Desktop\netscribes\assg_12\data_eng_assn\validation_detecto_dataset\417cpydKSpL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non_veg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>234</ymin>
+			<xmax>187</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

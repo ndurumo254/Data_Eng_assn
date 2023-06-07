@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation_detecto_dataset</folder>
+	<filename>81E6VkgSJ7L._SX679_.jpg</filename>
+	<path>C:\Users\MMb\Desktop\netscribes\assg_12\data_eng_assn\validation_detecto_dataset\81E6VkgSJ7L._SX679_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>679</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non_veg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>381</ymin>
+			<xmax>531</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

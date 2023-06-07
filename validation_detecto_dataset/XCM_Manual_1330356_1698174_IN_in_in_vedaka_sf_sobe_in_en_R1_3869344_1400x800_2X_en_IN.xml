@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation_detecto_dataset</folder>
+	<filename>XCM_Manual_1330356_1698174_IN_in_in_vedaka_sf_sobe_in_en_R1_3869344_1400x800_2X_en_IN.jpg</filename>
+	<path>C:\Users\MMb\Desktop\netscribes\assg_12\data_eng_assn\validation_detecto_dataset\XCM_Manual_1330356_1698174_IN_in_in_vedaka_sf_sobe_in_en_R1_3869344_1400x800_2X_en_IN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>veg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1334</xmin>
+			<ymin>732</ymin>
+			<xmax>1390</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>
